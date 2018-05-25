@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
 	"name": "constructor_hangman",
 	"version": "1.0.0",
@@ -18,29 +17,7 @@
 	},
 	"homepage": "https://github.com/BHerreras/Constructor_Hangman#readme",
 	"dependencies": {
+		"chalk": "^2.4.1",
 		"inquirer": "^5.2.0"
 	}
-=======
-{
-	"name": "constructor_hangman",
-	"version": "1.0.0",
-	"description": "CLI Hangman Game",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/BHerreras/Constructor_Hangman.git"
-	},
-	"author": "Bri Herreras",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/BHerreras/Constructor_Hangman/issues"
-	},
-	"homepage": "https://github.com/BHerreras/Constructor_Hangman#readme",
-	"dependencies": {
-		"inquirer": "^5.2.0"
-	}
->>>>>>> ba5a83b7a192159f057949704c4c3764f0a4d79a
 }
